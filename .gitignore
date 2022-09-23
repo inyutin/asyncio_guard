@@ -1,0 +1,11 @@
+.idea/
+venv/
+env/
+__pycache__/
+.mypy_cache/
+.pytest_cache/
+
+asyncio_guard.egg-info/
+build/
+dist/
+var/
